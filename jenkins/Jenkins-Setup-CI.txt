@@ -4,6 +4,9 @@ Install Plugins required for CI Pipeline
 		pmd -- install without restart
 		cobertura -- install without restart
 		Build Pipeline Plugin  -- install without restart
+		
+		artifactory
+		sonarcube
 
 			
 =================================================================================================================
